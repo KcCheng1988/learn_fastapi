@@ -1,4 +1,4 @@
-"# Fastapi-The-Complete-Course"
+# Fastapi-The-Complete-Course
 
 Tribute to course and code created by: Eric Roby
 
