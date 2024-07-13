@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# venv for project
+fastapi_venv
+
+>>>>>>> feature
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
