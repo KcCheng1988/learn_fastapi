@@ -1,10 +1,6 @@
 "# Fastapi-The-Complete-Course"
 
-Course and code created by: Eric Roby
-<<<<<<< HEAD
-=======
+Tribute to course and code created by: Eric Roby
 
 # Course Notes:
 1. <a href=https://fastapi.tiangolo.com/>Official documentation of FastAPI'</a>
-q
->>>>>>> d2fdb69 (first commit for README.md)
